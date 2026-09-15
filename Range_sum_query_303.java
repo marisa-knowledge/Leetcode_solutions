@@ -1,3 +1,4 @@
+import.java.until.HashMap
 class NumArray {
     int[] myNums;
     public NumArray(int[] nums) {
