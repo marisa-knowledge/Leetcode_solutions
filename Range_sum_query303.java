@@ -7,7 +7,7 @@ class NumArray {
             myNums[i + 1] = myNums[i] + nums[i];
         }
     }
-    
+     
     public int sumRange(int left, int right) {
         int sum;
         sum = myNums[right + 1] - myNums[left];
